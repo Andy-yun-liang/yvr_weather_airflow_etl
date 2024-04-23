@@ -6,3 +6,4 @@ A simple ETL orchestration in airflow that automates the retrieval, validation, 
 
 
 
+![dag](https://github.com/Andy-yun-liang/yvr_weather_airflow_etl/assets/73871814/3057b01f-5c0a-46e5-acfb-1885888e7c5f)
